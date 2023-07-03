@@ -77,7 +77,7 @@ ProVerif can be downloaded [here](https://bblanche.gitlabpages.inria.fr/proverif
 .\proverif.exe model.pv
 ```
 
-With "model.pv" the name of the ProVerif file.
+With "model.pv", the name of the ProVerif file.
 
 # AnimUML Architecture Model
 
